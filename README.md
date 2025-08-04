@@ -48,4 +48,4 @@ An interactive prediction block allows users to input their own review and recei
 This enhances the practicality and real-world applicability of the project.
 
 💾 Final Export and Reusability
-The cleaned and labeled dataset was saved as a .csv file for future use or further analysis.
+The cleaned and labeled dataset was saved as a cleaned_reviews.csv file for future use or further analysis.
